@@ -1,9 +1,6 @@
 # Hostel Management System (Java & Python)
 
-
-Author: Piyush Tiwari  
-Course: B.Tech (Computer Science & Engineering)  
-Year/Semester: IV Year, VII Semester  
+ 
 ==========================================
 
 ## Project Overview
@@ -53,4 +50,11 @@ Detailed comments are added in both versions to make the logic clear for beginne
 Future improvements can include:  
 - File storage for data persistence  
 - Database integration  
-- Graphical User Interface (GUI)  
+- Graphical User Interface (GUI)
+
+
+
+
+Author: Piyush Tiwari  
+Course: B.Tech (Computer Science & Engineering)  
+Year/Semester: IV Year, VII Semester 
