@@ -1,8 +1,5 @@
 # Hostel Management System (Java & Python)
 
-
-# Hostel Management System (Java & Python)
-
 ## 🌟 Upcoming Features – Stay Tuned!
 
 Some exciting updates are on the way:  
