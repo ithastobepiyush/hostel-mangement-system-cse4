@@ -1,6 +1,6 @@
 # Hostel Management System (Java & Python)
 
-===============
+
 Author: Piyush Tiwari  
 Course: B.Tech (Computer Science & Engineering)  
 Year/Semester: IV Year, VII Semester  
