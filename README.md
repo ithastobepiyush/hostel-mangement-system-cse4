@@ -1,5 +1,26 @@
 # Hostel Management System (Java & Python)
 
+
+# Hostel Management System (Java & Python)
+
+## 🌟 Upcoming Features – Stay Tuned!
+
+Some exciting updates are on the way:  
+
+- **Sleek UI Update:** Improved interface for smoother navigation  
+- **Dataverse Integration:** Advanced data management and storage  
+- **Web & Mobile App:** Access the system anytime, anywhere  
+- **Online Fee Payments:** Seamless transactions  
+- **Role-Based Access:** Different permissions for admins, staff, and students  
+- **Automated Notifications:** Fee reminders and alerts  
+- **Advanced Reporting:** Detailed student and room reports  
+
+---
+
+## 🚧 Updates Coming Soon
+
+## 🚧 Updates Coming Soon
+
  
 ==========================================
 
