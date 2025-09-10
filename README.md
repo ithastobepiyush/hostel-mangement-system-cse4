@@ -1,6 +1,6 @@
 # Hostel Management System (Java & Python)
 
-==========================================
+===============
 Author: Piyush Tiwari  
 Course: B.Tech (Computer Science & Engineering)  
 Year/Semester: IV Year, VII Semester  
@@ -12,7 +12,7 @@ It allows users to manage hostel student records easily through a menu-driven in
 The code is written in a clear and structured way with comments for better understanding.
 
 ## Features
-------------------------------------------
+--------------
 > Add Student (Name, Enrollment Number, Room Number)  
 > View All Students  
 > Search Student by Enrollment Number  
